@@ -1,0 +1,10 @@
+it/uniroma2/dicii/foodmood/Controller.class
+it/uniroma2/dicii/foodmood/model/LoginResult.class
+it/uniroma2/dicii/foodmood/RegisterController.class
+it/uniroma2/dicii/foodmood/model/Credentials.class
+it/uniroma2/dicii/foodmood/validator/Validator.class
+it/uniroma2/dicii/foodmood/model/Role.class
+it/uniroma2/dicii/foodmood/Main.class
+it/uniroma2/dicii/foodmood/HomeController.class
+it/uniroma2/dicii/foodmood/Navigator.class
+it/uniroma2/dicii/foodmood/exceptions/DAOException.class
