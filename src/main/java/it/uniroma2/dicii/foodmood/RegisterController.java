@@ -124,7 +124,6 @@ public class RegisterController implements Initializable {
     }
 
     private void redirectToLogin() {
-        // >>>> NIENTE nuove Scene: cambiamo solo il root <<<<
         Navigator.setRoot("/fxml/login.fxml");
     }
 

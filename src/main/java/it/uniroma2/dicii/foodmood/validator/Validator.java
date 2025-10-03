@@ -20,7 +20,6 @@ public final class Validator {
             Pattern.compile("^[A-Za-z0-9_]{3,20}$");
 
     private Validator() {
-        // costruttore privato per impedire l'istanza
     }
 
     public static boolean isValidEmail(String email) {
